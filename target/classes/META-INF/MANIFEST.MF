@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringbootCRM
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: uidq1456
+Implementation-Vendor-Id: com.springboot
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringbootCRM
+Created-By: Maven Integration for Eclipse
+
