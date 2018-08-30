@@ -2,8 +2,8 @@ package com.springboot.modules.system.service.impl;
 
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
+import com.springboot.modules.system.entity.Log;
 import com.springboot.modules.system.mapper.LogMapper;
-import com.springboot.modules.system.po.Log;
 import com.springboot.modules.system.query.LogQuery;
 import com.springboot.modules.system.service.LogService;
 import com.springboot.utils.PageResultSet;

@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;
 
 import com.springboot.core.annotation.SystemLog;
-import com.springboot.modules.system.po.Log;
+import com.springboot.modules.system.entity.Log;
 import com.springboot.modules.system.service.LogService;
 import com.springboot.utils.JsonUtil;
 import com.springboot.utils.PageResultSet;

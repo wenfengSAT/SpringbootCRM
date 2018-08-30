@@ -1,4 +1,4 @@
-package com.springboot.modules.system.po;
+package com.springboot.modules.system.entity;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotBlank;

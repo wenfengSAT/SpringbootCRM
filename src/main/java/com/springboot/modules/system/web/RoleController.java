@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 import com.springboot.core.annotation.SystemLog;
 import com.springboot.modules.system.dto.RoleDto;
-import com.springboot.modules.system.po.Role;
+import com.springboot.modules.system.entity.Role;
 import com.springboot.modules.system.query.RoleQuery;
 import com.springboot.modules.system.service.ResourceService;
 import com.springboot.modules.system.service.RoleService;

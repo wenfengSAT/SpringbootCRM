@@ -9,7 +9,7 @@ import org.apache.shiro.util.ByteSource;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.StringUtils;
 
-import com.springboot.modules.system.po.User;
+import com.springboot.modules.system.entity.User;
 import com.springboot.modules.system.service.UserService;
 
 public class UserRealm extends AuthorizingRealm {

@@ -1,6 +1,6 @@
 package com.springboot.modules.system.query;
 
-import com.springboot.modules.system.po.Group;
+import com.springboot.modules.system.entity.Group;
 import com.springboot.utils.BaseQuery;
 
 public class GroupQuery extends BaseQuery<Group> {

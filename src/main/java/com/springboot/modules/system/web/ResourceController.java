@@ -7,8 +7,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import com.springboot.core.annotation.SystemLog;
+import com.springboot.modules.system.entity.Resource;
 import com.springboot.modules.system.enums.ResourceType;
-import com.springboot.modules.system.po.Resource;
 import com.springboot.modules.system.service.ResourceService;
 import com.springboot.utils.BaseController;
 import com.springboot.utils.Result;

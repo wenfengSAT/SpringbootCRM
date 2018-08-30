@@ -5,7 +5,7 @@ import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.springboot.modules.system.po.User;
+import com.springboot.modules.system.entity.User;
 
 import tk.mybatis.mapper.mapperhelper.EntityHelper;
 

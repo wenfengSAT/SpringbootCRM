@@ -2,8 +2,8 @@ package com.springboot.modules.system.dto;
 
 import java.util.List;
 
+import com.springboot.modules.system.entity.Resource;
 import com.springboot.modules.system.enums.ResourceType;
-import com.springboot.modules.system.po.Resource;
 
 public class ResourceDto {
 

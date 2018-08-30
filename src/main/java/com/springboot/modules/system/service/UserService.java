@@ -5,7 +5,7 @@ import java.util.Set;
 
 import com.springboot.core.exception.CrmException;
 import com.springboot.modules.system.dto.UserDto;
-import com.springboot.modules.system.po.User;
+import com.springboot.modules.system.entity.User;
 import com.springboot.modules.system.query.UserQuery;
 import com.springboot.utils.PageResultSet;
 

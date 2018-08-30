@@ -5,7 +5,7 @@ import tk.mybatis.mapper.weekend.Weekend;
 import java.util.List;
 
 import com.springboot.modules.system.dto.TreeDto;
-import com.springboot.modules.system.po.Organization;
+import com.springboot.modules.system.entity.Organization;
 
 public interface OrganizationService {
 

@@ -1,4 +1,4 @@
-package com.springboot.modules.system.po;
+package com.springboot.modules.system.entity;
 
 import org.apache.ibatis.type.JdbcType;
 

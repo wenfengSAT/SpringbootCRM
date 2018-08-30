@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Set;
 
 import com.springboot.modules.system.dto.RoleDto;
-import com.springboot.modules.system.po.Role;
+import com.springboot.modules.system.entity.Role;
 import com.springboot.modules.system.query.RoleQuery;
 import com.springboot.utils.PageResultSet;
 

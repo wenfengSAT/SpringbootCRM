@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 import com.springboot.modules.system.dto.ResourceDto;
-import com.springboot.modules.system.po.Resource;
+import com.springboot.modules.system.entity.Resource;
 
 public interface ResourceService {
 

@@ -2,8 +2,8 @@ package com.springboot.modules.system.service.impl;
 
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
+import com.springboot.modules.system.entity.Group;
 import com.springboot.modules.system.mapper.GroupMapper;
-import com.springboot.modules.system.po.Group;
 import com.springboot.modules.system.query.GroupQuery;
 import com.springboot.modules.system.service.GroupService;
 import com.springboot.utils.PageResultSet;

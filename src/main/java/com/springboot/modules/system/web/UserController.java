@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 
 import com.springboot.core.annotation.SystemLog;
 import com.springboot.modules.system.dto.UserDto;
-import com.springboot.modules.system.po.User;
+import com.springboot.modules.system.entity.User;
 import com.springboot.modules.system.query.UserQuery;
 import com.springboot.modules.system.service.GroupService;
 import com.springboot.modules.system.service.OrganizationService;

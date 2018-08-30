@@ -7,9 +7,9 @@ import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.StringUtils;
 
 import com.springboot.modules.system.dto.ResourceDto;
+import com.springboot.modules.system.entity.Resource;
 import com.springboot.modules.system.enums.ResourceType;
 import com.springboot.modules.system.mapper.ResourceMapper;
-import com.springboot.modules.system.po.Resource;
 import com.springboot.modules.system.service.ResourceService;
 
 import tk.mybatis.mapper.weekend.Weekend;

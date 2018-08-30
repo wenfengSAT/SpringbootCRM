@@ -1,6 +1,6 @@
 package com.springboot.modules.system.query;
 
-import com.springboot.modules.system.po.User;
+import com.springboot.modules.system.entity.User;
 import com.springboot.utils.BaseQuery;
 
 public class UserQuery extends BaseQuery<User> {

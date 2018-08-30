@@ -2,7 +2,7 @@ package com.springboot.modules.system.dto;
 
 import java.util.List;
 
-import com.springboot.modules.system.po.Role;
+import com.springboot.modules.system.entity.Role;
 
 public class RoleDto {
 

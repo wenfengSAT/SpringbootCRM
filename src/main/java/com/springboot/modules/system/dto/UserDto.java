@@ -2,7 +2,7 @@ package com.springboot.modules.system.dto;
 
 import java.util.List;
 
-import com.springboot.modules.system.po.User;
+import com.springboot.modules.system.entity.User;
 
 public class UserDto {
 

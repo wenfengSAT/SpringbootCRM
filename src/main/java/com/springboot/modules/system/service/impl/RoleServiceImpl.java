@@ -2,9 +2,9 @@ package com.springboot.modules.system.service.impl;
 
 import com.github.pagehelper.PageHelper;
 import com.springboot.modules.system.dto.RoleDto;
+import com.springboot.modules.system.entity.Resource;
+import com.springboot.modules.system.entity.Role;
 import com.springboot.modules.system.mapper.RoleMapper;
-import com.springboot.modules.system.po.Resource;
-import com.springboot.modules.system.po.Role;
 import com.springboot.modules.system.query.RoleQuery;
 import com.springboot.modules.system.service.ResourceService;
 import com.springboot.modules.system.service.RoleService;

@@ -2,7 +2,7 @@ package com.springboot.modules.system.query;
 
 import org.springframework.format.annotation.DateTimeFormat;
 
-import com.springboot.modules.system.po.Log;
+import com.springboot.modules.system.entity.Log;
 import com.springboot.utils.BaseQuery;
 import com.springboot.utils.DateUtil;
 

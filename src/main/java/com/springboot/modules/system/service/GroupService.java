@@ -2,7 +2,7 @@ package com.springboot.modules.system.service;
 
 import java.util.List;
 
-import com.springboot.modules.system.po.Group;
+import com.springboot.modules.system.entity.Group;
 import com.springboot.modules.system.query.GroupQuery;
 import com.springboot.utils.PageResultSet;
 

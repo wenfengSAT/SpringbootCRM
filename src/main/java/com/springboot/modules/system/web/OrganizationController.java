@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import com.springboot.core.annotation.SystemLog;
 import com.springboot.modules.system.dto.TreeDto;
-import com.springboot.modules.system.po.Organization;
+import com.springboot.modules.system.entity.Organization;
 import com.springboot.modules.system.service.OrganizationService;
 import com.springboot.utils.BaseController;
 import com.springboot.utils.Result;

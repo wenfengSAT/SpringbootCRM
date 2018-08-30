@@ -6,8 +6,8 @@ import org.springframework.transaction.annotation.Transactional;
 import org.springframework.util.StringUtils;
 
 import com.springboot.modules.system.dto.TreeDto;
+import com.springboot.modules.system.entity.Organization;
 import com.springboot.modules.system.mapper.OrganizationMapper;
-import com.springboot.modules.system.po.Organization;
 import com.springboot.modules.system.service.OrganizationService;
 import com.springboot.utils.Constants;
 

@@ -6,8 +6,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
 import com.springboot.core.annotation.SystemLog;
+import com.springboot.modules.system.entity.Group;
 import com.springboot.modules.system.enums.GroupType;
-import com.springboot.modules.system.po.Group;
 import com.springboot.modules.system.query.GroupQuery;
 import com.springboot.modules.system.service.GroupService;
 import com.springboot.utils.PageResultSet;
