@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  * 
- * @Description： 功能描述
+ * @Description： 登录
  * @author [ Wenfeng.Huang@desay-svautomotive.com ] on [2018年8月24日下午5:31:13]
  * @Modified By： [修改人] on [修改日期] for [修改说明]
  *
