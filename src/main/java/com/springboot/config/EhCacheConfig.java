@@ -14,7 +14,7 @@ import com.springboot.core.shiro.spring.SpringCacheManagerWrapper;
 /**
  * 
  * @Description： 功能描述
- * @author [ Wenfeng.Huang@desay-svautomotive.com ] on [2018年8月24日下午5:24:45]
+ * @author [ Wenfeng.Huang ] on [2018年8月24日下午5:24:45]
  * @Modified By： [修改人] on [修改日期] for [修改说明]
  *
  */

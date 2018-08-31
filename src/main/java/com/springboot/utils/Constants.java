@@ -1,9 +1,5 @@
 package com.springboot.utils;
 
-/**
- * 常量定义
- * @author cjbi
- */
 public class Constants {
 
     /**

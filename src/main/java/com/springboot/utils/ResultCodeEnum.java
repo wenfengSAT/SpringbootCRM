@@ -1,8 +1,5 @@
 package com.springboot.utils;
 
-/**
- * @author cjbi
- */
 public enum ResultCodeEnum {
 
     OK("200", "处理成功"),

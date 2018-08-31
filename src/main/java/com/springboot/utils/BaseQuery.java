@@ -7,11 +7,6 @@ import tk.mybatis.mapper.mapperhelper.EntityHelper;
 import java.io.Serializable;
 import java.lang.reflect.ParameterizedType;
 
-/**
- * 基础传输对象
- *
- * @author cjbi
- */
 public class BaseQuery<T> implements Serializable {
 
     private static final long serialVersionUID = 1L;

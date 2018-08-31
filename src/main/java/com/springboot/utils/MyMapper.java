@@ -30,7 +30,7 @@ import tk.mybatis.mapper.common.MySqlMapper;
 /**
  * 
  * @Description： 继承自己的MyMapper
- * @author [ Wenfeng.Huang@desay-svautomotive.com ] on [2018年8月30日下午7:30:06]
+ * @author [ Wenfeng.Huang ] on [2018年8月30日下午7:30:06]
  * @Modified By： [修改人] on [修改日期] for [修改说明]
  *
  */

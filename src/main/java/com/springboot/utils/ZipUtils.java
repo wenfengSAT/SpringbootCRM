@@ -12,7 +12,6 @@ import java.util.zip.ZipOutputStream;
 /**
  * ZIP压缩工具
  *
- * @author <a href="mailto:zlex.dongliang@gmail.com">梁栋</a>
  * @since 1.0
  */
 public class ZipUtils{

@@ -6,7 +6,6 @@ import java.util.List;
 /**
  * 通用分页返回结果集
  *
- * @author cjbi
  */
 public class PageResultSet<T> implements Serializable {
 

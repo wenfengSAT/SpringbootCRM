@@ -7,8 +7,6 @@ import java.util.Date;
 /**
  * 日期工具
  *
- * @author zhaohuihua
- * @version V1.0 2015年10月23日
  */
 public class DateUtil {
 
