@@ -170,6 +170,25 @@
 			<!-- 可选依赖 -->
 			<optional>true</optional>
 		</dependency>
+		
+		<dependency>
+	        <groupId>com.alibaba</groupId>
+	        <artifactId>fastjson</artifactId>
+	        <version>1.2.2</version>
+	    </dependency>
+	    
+		<!-- github登录 -->
+		<dependency>
+		    <groupId>com.github.scribejava</groupId>
+		    <artifactId>scribejava-apis</artifactId>
+		    <version>5.5.0</version>
+		</dependency>
+		
+		<dependency>
+		    <groupId>com.github.scribejava</groupId>
+		    <artifactId>scribejava-core</artifactId>
+		    <version>5.5.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>

@@ -175,8 +175,14 @@ public class UserServiceImpl implements UserService {
     public User findByUsername(String username) {
         User user = new User();
         user.setUsername(username);
-        userMapper.selectOne(user);
-        return userMapper.selectOne(user);
+        List<User> users = userMapper.select(user);
+        if(users == null) {
+        	return null;
+        }
+        if(users.size() < 1) {
+        	return null;
+        }
+        return users.get(0);
     }
 
     @Override
